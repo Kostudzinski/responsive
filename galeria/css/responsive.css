@@ -8,7 +8,7 @@
         width: 90%;   
     }
 }
-@media all and (max-width: 420px) {
+@media all and (max-width: 480px) {
      figure {
         width: 100%;
     }
